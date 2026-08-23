@@ -34,7 +34,7 @@ ML_Safety/
 During the experiments, the main local project path was:
 
 ```text
-D:\ML_safty
+E:\ML_safty
 ```
 
 The recorded dataset contained:
@@ -122,7 +122,7 @@ The models are kept separate so that pedestrian, traffic-light and vehicle perfo
 
 ---
 
-# 4. What We Did in Exercises 1–9
+# 4. What I Did in Exercises 1–9
 
 ### Exercise 1 — Safety Context
 Established the ML safety and security problem and connected perception failures to possible system-level consequences.
